@@ -60,3 +60,19 @@ GitHub: [@vishvi31](https://github.com/vishvi31)
 
 ## 📌 Status
 🟡 In Progress — completing by Tuesday, May 13
+
+## Day 1 — Thu, May 7
+
+**What I did today:**
+- Created the GitHub repository
+- Started writing the To-Do List program in Jupyter Notebook
+- Built the base structure — empty list, add_task() and view_tasks() functions
+- Understood how enumerate() works for numbered lists
+
+**What I learned:**
+- How .append() adds items to a list
+- How enumerate(list, start=1) gives index + value together
+- Why functions make code reusable
+
+**Tomorrow's plan:**
+- Build the delete_task() function with input validation
